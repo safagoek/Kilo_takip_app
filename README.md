@@ -1,2 +1,4 @@
 Basit seviyede diyetisyenler için kilo takip sistemi
-        e  kstra olarak danışan hakkkında not
+        ekstra olarak danışan hakkkında not
+
+python ile yazılmıştır dist klasörü içerinde uygulama hali mevcuttur
